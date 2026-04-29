@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Grupo05XX_SistemaVentas
 {
-    public partial class Form1 : Form
+    public partial class soto2 : Form
     {
-        public Form1()
+        public soto2()
         {
             InitializeComponent();
         }
