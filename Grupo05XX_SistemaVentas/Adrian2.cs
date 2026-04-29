@@ -19,7 +19,7 @@ namespace Grupo05XX_SistemaVentas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Adrian1 products = new Adrian1();
+            soto1 products = new soto1();
             products.Show();
         }
     }
