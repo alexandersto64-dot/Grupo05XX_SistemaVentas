@@ -47,5 +47,16 @@ namespace Grupo05XX_SistemaVentas
         {
 
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void pinToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Adrian2 migracion = new Adrian2();
+            migracion.Show();
+        }
     }
 }
