@@ -16,5 +16,11 @@ namespace Grupo05XX_SistemaVentas
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Adrian1 products = new Adrian1();
+            products.Show();
+        }
     }
 }
