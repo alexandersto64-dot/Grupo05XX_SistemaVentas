@@ -122,5 +122,8 @@
   <ItemGroup>
     <None Include="Resources\implementacion.png" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregar-carpeta.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

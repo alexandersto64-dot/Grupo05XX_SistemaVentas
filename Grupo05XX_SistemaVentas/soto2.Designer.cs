@@ -86,6 +86,7 @@
             // button1
             // 
             this.button1.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.button1.Image = global::Grupo05XX_SistemaVentas.Properties.Resources.agregar_carpeta;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button1.Location = new System.Drawing.Point(927, 621);
             this.button1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
@@ -95,6 +96,7 @@
             this.button1.Text = "REGISTRAR";
             this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label10
             // 

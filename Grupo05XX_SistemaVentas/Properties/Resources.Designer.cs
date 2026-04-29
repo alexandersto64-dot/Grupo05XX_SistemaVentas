@@ -63,6 +63,16 @@ namespace Grupo05XX_SistemaVentas.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap agregar_carpeta {
+            get {
+                object obj = ResourceManager.GetObject("agregar-carpeta", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap enviar_mensaje {
             get {
                 object obj = ResourceManager.GetObject("enviar-mensaje", resourceCulture);
