@@ -58,6 +58,12 @@
     <Compile Include="Adrian2.Designer.cs">
       <DependentUpon>Adrian2.cs</DependentUpon>
     </Compile>
+    <Compile Include="Benites.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Benites.Designer.cs">
+      <DependentUpon>Benites.cs</DependentUpon>
+    </Compile>
     <Compile Include="soto1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,6 +83,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Adrian2.resx">
       <DependentUpon>Adrian2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Benites.resx">
+      <DependentUpon>Benites.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="soto1.resx">
       <DependentUpon>soto1.cs</DependentUpon>
