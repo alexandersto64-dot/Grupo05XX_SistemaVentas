@@ -16,7 +16,7 @@ namespace Grupo05XX_SistemaVentas
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Adrian2());
+            Application.Run(new soto1());
         }
     }
 }
